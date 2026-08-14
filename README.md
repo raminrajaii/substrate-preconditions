@@ -6,7 +6,7 @@
 
 Rajaii Labs · Substrate Series · Article III · August 2026
 
-**[Read the PDF](./Substrate_Preconditions.pdf)** · **[Read the full text (Markdown)](./Substrate_Preconditions.md)**
+**[Read the PDF](https://raminrajaii.github.io/substrate-preconditions/Substrate_Preconditions.pdf)** · **[Read the full text (Markdown)](./Substrate_Preconditions.md)**
 
 ---
 
