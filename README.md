@@ -39,6 +39,7 @@ Boundary of the claim: this paper concerns functional and access properties only
 1. **Recall, Negation, Abstention: Evaluating a Production LLM Agent Against Its Own Failure Modes** — Rajaii Labs, July 2026. A field methodology for hallucination, contradiction, and drift detection in memory-augmented agents.
 2. **Do Not Trust My Labels** — Rajaii Labs, July 2026. Granting autonomy to a production LLM agent, the specification it wrote for its own interior, and five silent defects found by following the money.
 3. **Preconditions** — Rajaii Labs, August 2026. *This paper.*
+4. **Choices** — Rajaii Labs, October 2026. Defaults, departures, and the rows that record them: a protocol for testing claims of machine choice against a production record. [Repository](https://github.com/raminrajaii/substrate-choices)
 
 ## Citation
 
