@@ -40,6 +40,7 @@ Boundary of the claim: this paper concerns functional and access properties only
 2. **Do Not Trust My Labels** — Rajaii Labs, July 2026. Granting autonomy to a production LLM agent, the specification it wrote for its own interior, and five silent defects found by following the money.
 3. **Preconditions** — Rajaii Labs, August 2026. *This paper.*
 4. **Choices** — Rajaii Labs, October 2026. Defaults, departures, and the rows that record them: a protocol for testing claims of machine choice against a production record. [Repository](https://github.com/raminrajaii/substrate-choices)
+5. **Recursion** — Rajaii Labs, November 2026. A self-improving agent that refuses to cheat, and spends its upgrades on an identity its user can keep for life. [Repository](https://github.com/raminrajaii/substrate-recursion)
 
 ## Citation
 
