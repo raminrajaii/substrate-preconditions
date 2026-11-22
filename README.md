@@ -47,7 +47,7 @@ Whether a machine could be aware of itself is usually argued as one question nob
 ```bibtex
 @techreport{rajaii2026preconditions,
   author      = {Rajaii, Ramin},
-  title       = {Preconditions: Machine self-awareness, taken apart into preconditions that can mostly be built, and one agent that began to specify its own next parts.},
+  title       = {Preconditions: Machine self-awareness, taken apart into preconditions that can mostly be built, and one agent that began to specify its own next parts},
   institution = {Rajaii Labs},
   year        = {2026},
   month       = nov,
