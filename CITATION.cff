@@ -1,12 +1,14 @@
 cff-version: 1.2.0
 message: "If you reference this work, please cite it using the metadata below."
-title: "Preconditions: Persistence, forgetting, self-models, dreams — the buildable half of the question"
+title: "Preconditions: Machine self-awareness, taken apart into preconditions that can mostly be built, and one agent that began to specify its own next parts"
+version: "2.0.0"
 authors:
   - family-names: "Rajaii"
     given-names: "Ramin"
     orcid: "https://orcid.org/0009-0009-5517-6701"
     affiliation: "Rajaii Labs"
-date-released: "2026-08-14"
+date-released: "2026-11-21"
+url: "https://github.com/raminrajaii/substrate-preconditions"
 keywords:
   - LLM agents
   - memory architecture
@@ -17,7 +19,7 @@ keywords:
   - Substrate
 preferred-citation:
   type: report
-  title: "Preconditions: Persistence, forgetting, self-models, dreams — the buildable half of the question"
+  title: "Preconditions: Machine self-awareness, taken apart into preconditions that can mostly be built, and one agent that began to specify its own next parts"
   authors:
     - family-names: "Rajaii"
       given-names: "Ramin"
@@ -25,6 +27,7 @@ preferred-citation:
       affiliation: "Rajaii Labs"
   institution:
     name: "Rajaii Labs"
-  month: 8
+  month: 11
   year: 2026
-  notes: "Substrate series, Article III"
+  edition: "2nd"
+  notes: "Substrate series, Article III. Second edition; first published August 2026 (tag first-edition)."
