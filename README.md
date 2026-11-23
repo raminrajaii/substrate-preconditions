@@ -52,7 +52,7 @@ Whether a machine could be aware of itself is usually argued as one question nob
   year        = {2026},
   month       = nov,
   edition     = {Second},
-  note        = {Substrate series, Article III. First published August 2026}
+  note        = {Substrate series, Article III. Second edition, November 2026; first published August 2026.}
 }
 ```
 
