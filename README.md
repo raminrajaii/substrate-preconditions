@@ -10,10 +10,10 @@ Second edition, November 2026; the first edition is kept exactly in [`archive/fi
 
 Whether a machine could be aware of itself is usually argued as one question nobody can answer. This paper takes it apart into sixteen preconditions, the properties a system needs before a claim about its self-awareness can be tested, most of which can be built and checked, and grades one agent, Substrate, against them, starting with what it lacks. Substrate is a production AI agent built on Claude that I have run for one user, me, since April 2026; its memory, its record of facts and its standing instructions live outside the model, so the model can be replaced and the agent stays. By the 2026-08-14 snapshot it had seven of the sixteen and four more in part, four were missing, and the sixteenth, experience itself, is beyond any instrument; its model was replaced twice, and its memory, records and instructions carried across intact. Once enough of the list existed, it began, when asked, to write the specifications for its own next parts, and they shipped through my review.
 
-**[Read the PDF](https://raminrajaii.github.io/substrate-preconditions/Substrate_Preconditions.pdf)** · **[Read the full text (Markdown)](./Substrate_Preconditions.md)** · **[The first edition](./archive/first-edition/Substrate_Preconditions.md)**
+**[Read the PDF](https://rajaii-labs.github.io/substrate-preconditions/Substrate_Preconditions.pdf)** · **[Read the full text (Markdown)](./Substrate_Preconditions.md)** · **[The first edition](./archive/first-edition/Substrate_Preconditions.md)**
 
-**The Substrate series:** [Article I](https://github.com/rajaii-labs/agent-eval-methodology) · [Article II](https://github.com/rajaii-labs/agent-cost-forensics) · Article III, this paper · [Article IV](https://github.com/raminrajaii/substrate-choices) · [Article V](https://github.com/raminrajaii/substrate-recursion)\
-**How to cite:** Rajaii, R. (2026). *Preconditions* (2nd ed.). Rajaii Labs, Substrate series, Article III. [BibTeX](#citation) · [CITATION.cff](./CITATION.cff)
+**The Substrate series:** [Article I](https://github.com/rajaii-labs/agent-eval-methodology) · [Article II](https://github.com/rajaii-labs/agent-cost-forensics) · Article III, this paper · [Article IV](https://github.com/rajaii-labs/substrate-choices) · [Article V](https://github.com/rajaii-labs/substrate-recursion)\
+**How to cite:** Rajaii, R. (2026). *Preconditions: Machine self-awareness, taken apart into preconditions that can mostly be built, and one agent that began to specify its own next parts* (2nd ed.). Rajaii Labs, Substrate series, Article III. [BibTeX](#citation) · [CITATION.cff](./CITATION.cff)
 
 ---
 
@@ -32,15 +32,15 @@ Whether a machine could be aware of itself is usually argued as one question nob
 
 **Technical sections**, T1–T17: the system measured, its context and its stores, each precondition in full, the threshold and the indicators, the ladder rung by rung, the four functions, the Dream Engine, the experiments, the implications at full strength, what would falsify this, open problems, the corrections the first edition made to Articles I and II, the lessons, what changed in this edition with a map of every first-edition section, and the glossary.
 
-**Beside the paper.** The figures, as SVG and PNG, in [`figures/`](./figures/); the first edition, exactly as published, in [`archive/first-edition/`](./archive/first-edition/) and at the tag [`first-edition`](https://github.com/raminrajaii/substrate-preconditions/tree/first-edition).
+**Beside the paper.** The figures, as SVG and PNG, in [`figures/`](./figures/); the first edition, exactly as published, in [`archive/first-edition/`](./archive/first-edition/) and at the tag [`first-edition`](https://github.com/rajaii-labs/substrate-preconditions/tree/first-edition).
 
 ## The Substrate series
 
 1. **Recall, Negation, Abstention** — Rajaii Labs, July 2026 · second edition, November 2026. [Repository](https://github.com/rajaii-labs/agent-eval-methodology)
 2. **Do Not Trust My Labels** — Rajaii Labs, July 2026 · second edition, November 2026. [Repository](https://github.com/rajaii-labs/agent-cost-forensics)
 3. **Preconditions** — Rajaii Labs, August 2026 · second edition, November 2026. *This paper.*
-4. **Choices** — Rajaii Labs, October 2026 · second edition, November 2026. [Repository](https://github.com/raminrajaii/substrate-choices)
-5. **Recursion** — Rajaii Labs, November 2026. [Repository](https://github.com/raminrajaii/substrate-recursion)
+4. **Choices** — Rajaii Labs, October 2026 · second edition, November 2026. [Repository](https://github.com/rajaii-labs/substrate-choices)
+5. **Recursion** — Rajaii Labs, November 2026. [Repository](https://github.com/rajaii-labs/substrate-recursion)
 
 ## Citation
 

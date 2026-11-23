@@ -8,7 +8,7 @@ authors:
     orcid: "https://orcid.org/0009-0009-5517-6701"
     affiliation: "Rajaii Labs"
 date-released: "2026-11-21"
-url: "https://github.com/raminrajaii/substrate-preconditions"
+url: "https://github.com/rajaii-labs/substrate-preconditions"
 keywords:
   - LLM agents
   - memory architecture
